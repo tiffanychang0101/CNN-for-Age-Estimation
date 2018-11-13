@@ -9,5 +9,6 @@
 2. Test data: 
     Test 資料夾: images files (about 10,000 images250x250 RGB圖像)
 
-資料出處:NTU Prof. Winston H. Hsu's Datasets
-© 2018 GitHub, Inc.
+    資料出處:NTU Prof. Winston H. Hsu's Datasets
+    
+    © 2018 GitHub, Inc.
